@@ -1,7 +1,5 @@
 package machine_test;
 
-import com.sun.jdi.PathSearchingVirtualMachine;
-
 import java.util.Scanner;
 
 public class HJ12 {
