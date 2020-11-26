@@ -16,7 +16,9 @@ public class HJ36 {
         while (true){
             key = reader.readLine();
             password = reader.readLine();
-            System.out.println(encrypt(key, password));
+            if (password!=null&&key!=null){
+                System.out.println(encrypt(key, password));
+            }
         }
     }
 
