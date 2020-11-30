@@ -18,5 +18,5 @@ public class HJ59 {
     }
 
     public static String getFirst(String str) {
-
+        return null;
     }}
