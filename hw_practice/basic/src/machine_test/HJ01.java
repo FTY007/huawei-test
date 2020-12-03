@@ -2,7 +2,7 @@ package machine_test;
 
 import java.util.Scanner;
 
-public class GetLastWord_1 {
+public class HJ01 {
     public static void main(String[] args) {
         //1.输入
         Scanner scanner = new Scanner(System.in);
